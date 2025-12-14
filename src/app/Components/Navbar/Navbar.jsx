@@ -24,6 +24,7 @@ export default function Navbar() {
     { name: 'Contact', href: '/pages/Contact' },
     { name: 'Hotels', href: '/pages/Hotels' },
     { name: 'Destinations', href: '/pages/Destinations' },
+    { name: 'Book a Room', href: '/pages/Booking' },
   ];
 
   // Listen for demo button clicks
